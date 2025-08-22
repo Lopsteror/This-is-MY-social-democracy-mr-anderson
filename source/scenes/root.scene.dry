@@ -621,7 +621,7 @@ this.state.disableSaves = true;
 go-to: 1928_main
 
 @1928_main
-audio: shuffle music/rickroll.mp3 music/rickroll.mp3
+audio: shuffle music/trolling.mp3 music/trolling.mp3
 new-page: true
 go-to: main if difficulty >= 0; main.main_easy if difficulty < 0
 
