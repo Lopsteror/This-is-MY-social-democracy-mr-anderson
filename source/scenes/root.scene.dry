@@ -577,9 +577,9 @@ Q.stampfer_advisor = 0; // Friedrich Stampfer
 set-bg: img/map_2.jpg
 new-page: true
 
-> *"Such a general development cannot be attributed to the false tactics of any single party or to the mistakes of individual leaders. On the contrary, the conduct of individual leaders is determined largely by the sentiments of the people as a whole. It would be erroneous, however, to regard the sentiments of the moment as reflecting the natural make-up and character of the people. They are merely the consequence of the special circumstances which have brought about this profound degradation of the entire nation."*
+> *"The old order has passed away. What comes next is uncertain; the people themselves must decide the fate of the nation. In these moments, the future is fragile, and every hand must strive for the common good."*
 
- - Karl Kautsky, *Hitlerism and Social Democracy*, 1934
+— Friedrich Ebert, November 1918, addressing the German people after the Kaiser’s abdication"*
 
 This is a game of alternate history. While historical accuracy is a major concern, keep in mind that this is a *game*, and that any divergence from actual events will necessarily have to involve some element of make-believe. Nevertheless, please let the author know if there are any glaring mistakes.
 
@@ -625,8 +625,7 @@ go-to: main if difficulty >= 0; main.main_easy if difficulty < 0
 
 = 1928
 
-It is a bright time for German democracy. After a period of struggle, inflation is finally under control, and the economy is expanding steadily. In foreign policy, we have reached agreements with the Western powers and the Soviet Union that might make genuine peace a reality. 
+Germany stands at the crossroads of history. The Great War has ended, but its scars run deep: cities are damaged, the economy teeters on collapse, and thousands mourn the lives lost. The Kaiser has abdicated, and the monarchy has fallen, leaving a fragile republic in its place. Strikes and uprisings sweep the streets, and the people demand not only peace and bread, but justice and representation.
 
-Now, the task of Social Democracy is to prepare for the next election. The bourgeois-right government of Wilhelm Marx is unpopular, and we stand to gain. Perhaps the next government will have a socialist majority.
-
+In this moment of upheaval, Social Democracy must act. The future of Germany is not yet written. Will we steer the nation toward a stable democracy, or will chaos and extremism seize the day? The eyes of the people are upon us — and the decisions we make now will shape the republic for generations to come.
 
