@@ -24,7 +24,7 @@ Q.time = 1;
 Q.year = 1918;
 Q.month = 11;
 // how many actions have been taken this month?
-Q.month_actions = 0;
+Q.month_actions = -2;
 
 // 0 = normal difficulty, 1 = hard mode, 2 = hard mode no saves
 Q.difficulty = 0;
@@ -534,7 +534,7 @@ Q.n_elections = 0;
 Q.no_majority_elections = 0;
 // elections are not on a timer, but rather there is an indicator for whether you're in an electoral cycle.
 Q.in_election = 1;
-Q.next_election_year = 1928;
+Q.next_election_year = 1918;
 Q.next_election_month = 5;
 Q.next_election_time = 5;
 // government affairs timers
