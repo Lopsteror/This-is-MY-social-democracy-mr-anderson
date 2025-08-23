@@ -23,13 +23,13 @@ Herein contains relevant information about the government and politics of the Ge
 @government
 go-to: menu
 
-The German Republic, called by some of our detractors as the "Weimar Republic", is a parliamentary republic with a somewhat weak president and a strong parliament, called the Reichstag. The Reichstag is responsible for governing, while the President has a largely ceremonial role but also has some important governing responsibilities.
+The German Reich has undergone a profound transformation. After the abdication of the Kaiser, the monarchy has been replaced by a provisional republic, led initially by the Council of People's Deputies (Rat der Volksbeauftragten). Friedrich Ebert of the Social Democratic Party (SPD) serves as Chairman, acting as the head of state during this transitional period. The Council governs collectively, with representatives from the SPD and USPD guiding the nation through a fragile and uncertain time.
 
-The Reichstag is elected based on a proportional representation system, giving parties seats roughly proportional to their vote share in each electoral district. The Reichstag then elects the Chancellor and the cabinet by a majority vote, who are responsible for government. A majority vote-of-no-confidence can remove the current government.
+At this stage, Germany does not yet have a fully established parliament or constitution. Political power is shared between the Council of People's Deputies and regional governments, with major decisions often requiring negotiation among revolutionary councils, workers’ and soldiers’ committees, and party leaders. There is no directly elected president yet; the role of head of state is temporary and largely focused on maintaining order, overseeing the transition to democracy, and preventing further unrest.
 
-The President is elected by a national direct vote, in two rounds. The second round is used if the first round does not result in a majority for one candidate; the candidate who receives a plurality in the second round becomes president (there is no obligation for weaker candidates to drop out). The role of the president is mostly to represent Germany, but he also has some crucial governing powers. The president and chancellor can together use emergency decrees to govern, bypassing the Reichstag. The president can also appoint or remove a chancellor when a parliamentary majority is unable to be established, and can thus influence the formation of a government.
+Germany remains divided into its traditional states, each with local administrations. Prussia is by far the largest and most influential state, with significant economic, political, and military weight. Its governance during this period is particularly crucial, as stability in Prussia affects the entire Reich.
 
-Germany is divided into a number of states, each of which have their own governments with some responsibilities. By far the largest and most important state is Prussia.
+The future of Germany is uncertain. Elections and a permanent constitution are planned, but the revolutionary situation, economic instability, and social unrest make every decision critical. The path toward a stable parliamentary democracy will require careful negotiation, compromise, and leadership from the SPD and its allies.
 
 @weimar_timeline
 go-to: menu
@@ -77,7 +77,7 @@ SPD: [+ spd_r +]%
 # 1928: 15, 1930: 15, 1932: 
 Z + BVP: [+ z_r +]%
 # 1928: 10, 1930: 13
-KPD: [+ kpd_r +]%
+USPD: [+ uspd_r +]%
 # 1928: 5, 1930: 4 (as DstP)
 [+ ddp_name +]: [+ ddp_r +]%
 # 1928: 9, 1930: 5
@@ -170,7 +170,7 @@ SPD: [+ spd_votes +]%
 Z + BVP: [+ z_votes +]%
 
 # 1928: 10, 1930: 13
-KPD: [+ kpd_votes +]%
+USPD: [+ uspd_votes +]%
 
 # 1928: 5, 1930: 4 (as DstP)
 [+ ddp_name +]: [+ ddp_votes +]%
